@@ -1,0 +1,46 @@
+/* Write all your CSS here */
+
+
+/* Please indent properly */
+
+
+/* Please use only lower-case letters */
+
+
+/* Your webpage should be 100% responsive!!! */
+
+#navbar {
+    background-color: #3f0e40;
+    color: #c0b2c1;
+    margin-right: 80%;
+    padding-left: 10px;
+    font-size: 1.2em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3 {
+    color: white;
+}
+
+#navbar li {
+    padding-bottom: 5px;
+}
+
+i {
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.flex-warp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.clr-gren {
+    color: #2bac75;
+}
